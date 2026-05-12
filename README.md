@@ -1,1 +1,1 @@
-# 26-tavasz-campus-quest
+# Campus Quest
